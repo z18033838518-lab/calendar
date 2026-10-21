@@ -548,4 +548,13 @@ DTEND:20261022T113000Z
 SUMMARY:和朋友去吃中餐厅
 DESCRIPTION:明天晚上18:00和朋友去吃中餐厅（用户 2026-10-21 在微信交代，要求提醒并同步日历）
 END:VEVENT
+BEGIN:VEVENT
+UID:9c091ead0d772d3cfbe4c713e68864d7@muse
+DTSTAMP:20261021T162100Z
+DTSTART:20261022T072500Z
+DTEND:20261022T082500Z
+SUMMARY:2023级毕业照拍摄
+LOCATION:图书馆前面
+DESCRIPTION:15:25在图书馆前面整队集合完毕（按高矮个男女各站一排）；着商务正装，拍摄时只穿商务正装，头发长度和颜色符合行为规范标准，女生把头发扎起；拍摄当天听从老师统一指挥，拍摄完成领导退场后保持不动，拍摄一个“我们毕业了”的视频，毕业典礼时会用到
+END:VEVENT
 END:VCALENDAR
