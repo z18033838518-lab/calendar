@@ -557,4 +557,11 @@ SUMMARY:2023级毕业照拍摄
 LOCATION:图书馆前面
 DESCRIPTION:15:25在图书馆前面整队集合完毕（按高矮个男女各站一排）；着商务正装，拍摄时只穿商务正装，头发长度和颜色符合行为规范标准，女生把头发扎起；拍摄当天听从老师统一指挥，拍摄完成领导退场后保持不动，拍摄一个“我们毕业了”的视频，毕业典礼时会用到
 END:VEVENT
+BEGIN:VEVENT
+UID:b8678f060d78d0ba0eb228bdfff65419@muse
+DTSTAMP:20261022T160700Z
+DTSTART:20261023T021700Z
+DTEND:20261023T024700Z
+SUMMARY:微信记录接入：电脑侧三步（Tailscale/微信登录/记录迁移）
+END:VEVENT
 END:VCALENDAR
