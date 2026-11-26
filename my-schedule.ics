@@ -1027,4 +1027,12 @@ DTEND:20261129T013000Z
 SUMMARY:填写马来西亚 MDAC 入境卡（12月1日抵达吉隆坡）
 DESCRIPTION:12月1日周二12:05抵达吉隆坡T1，深航ZH327。MDAC须在抵达前3天内免费填，官网 imigresen-online.imi.gov.my/mdac/main，11月29日是最早可填的一天。需护照信息、航班号、住宿完整地址（含州、城市、邮编）。填完保存PDF或截图回执。中国护照免签30天，护照有效期须超6个月。来源：用户2026-11-26 21:47微信消息
 END:VEVENT
+BEGIN:VEVENT
+UID:a8458aa11c40c4e3677a71ea05289b65@muse
+DTSTAMP:20261126T135231Z
+DTSTART:20261127T060000Z
+DTEND:20261127T063000Z
+SUMMARY:提醒：开聚福源发票、打10086退款
+DESCRIPTION:用户2026-11-26微信交代：明天（11月27日周五）下午两点提醒他：1. 开聚福源发票；2. 打10086退款。来源：用户2026-11-26 21:51微信消息
+END:VEVENT
 END:VCALENDAR
