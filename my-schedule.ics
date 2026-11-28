@@ -589,14 +589,6 @@ SUMMARY:提醒：找马来西亚房东要住宿地址（11月29日填MDAC入境�
 DESCRIPTION:用户2026-11-26微信交代：明天（11月27日）提醒他找马来西亚房东要住宿完整地址，以便11月29日填写MDAC马来西亚数字入境卡。12月1日周二12:05抵达吉隆坡，MDAC须在抵达前3天内填，11月29日是最早可填的一天。填表需完整地址（含州、城市、邮编）。来源：用户2026-11-26 21:47微信消息
 END:VEVENT
 BEGIN:VEVENT
-UID:ddf29b8318b83bc6a4d15d69d76cb982@muse
-DTSTAMP:20261126T134933Z
-DTSTART:20261129T010000Z
-DTEND:20261129T013000Z
-SUMMARY:填写马来西亚 MDAC 入境卡（12月1日抵达吉隆坡）
-DESCRIPTION:12月1日周二12:05抵达吉隆坡T1，深航ZH327。MDAC须在抵达前3天内免费填，官网 imigresen-online.imi.gov.my/mdac/main，11月29日是最早可填的一天。需护照信息、航班号、住宿完整地址（含州、城市、邮编）。住宿地址：328, Jln Tun Razak, Kampung Datuk Keramat, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur（Three28）。填完保存PDF或截图回执。中国护照免签30天，护照有效期须超6个月。来源：用户2026-11-26 21:47微信消息
-END:VEVENT
-BEGIN:VEVENT
 UID:a8458aa11c40c4e3677a71ea05289b65@muse
 DTSTAMP:20261126T135231Z
 DTSTART:20261127T060000Z
@@ -651,5 +643,13 @@ DTSTART:20261202T010000Z
 DTEND:20261202T013000Z
 SUMMARY:雅思口语考试（EMS）
 DESCRIPTION:雅思口语考试，在 EMS（英国文化协会官方雅思考点，吉隆坡 Megan Avenue 2，距 Three28 住处步行约 10 分钟）；提前 30 分钟到场，带护照原件。
+END:VEVENT
+BEGIN:VEVENT
+UID:mdac-result-check-20261201@muse
+DTSTAMP:20261128T093700Z
+DTSTART:20261130T223000Z
+DTEND:20261130T230000Z
+SUMMARY:查 MDAC 结果并保存确认页（12月1日飞吉隆坡前）
+DESCRIPTION:MDAC 已于 11 月 28 日通过代办平台提交（出境日期已改成 2026-12-30，邮箱已换 Gmail），平台 11 月 30 日自动向官网递交，预计 12 月 1 日 00:15 前出结果。12 月 1 日 08:15 深圳 ZH327 起飞前查邮箱/平台确认结果，保存确认页和截图，入境走人工柜台备查。明天 11 月 29 日不用再填一次。住宿地址：328, Jln Tun Razak, Kampung Datuk Keramat, 50400 Kuala Lumpur。
 END:VEVENT
 END:VCALENDAR
